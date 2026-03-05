@@ -1,3 +1,5 @@
+The goal of this practical work is to build a version of the famous game Whac-A-Mole on Arduino. To do so, it was necessary to make an adaptation using LEDs, the objective of which is to light them all up, so that we can achieve victory.
+
 To create this game, I began by making a mental map of it to understand how to implement certain functions needed for the proper operation of my program. However, 
 throughout the development process, I encountered some difficulties.
 One of them was how to implement the part where the button must be pressed for 2 seconds. In the end, I managed to implement this condition. I created a boolean 
