@@ -2,6 +2,7 @@ The goal of this practical assignment is to write a program that implements the 
 receives two numbers: one is the target value and the other is the starting value. With this, the player has two bitwise operations available during the game. 
 The player must enter a number and perform one of the two available operations on the starting value, using the buttons, in order to achieve victory, which is to match 
 the target value with the value being calculated. To make the game more challenging, we also use 4 LEDs to show the remaining time the player has.
+
 To create this game, I began by thinking about how to implement certain functionalities so that everything would work as expected. However, during development, I 
 encountered a problem with the “while” loops. 
 In my code, to prevent the message “Introduza um valor:” from appearing repeatedly until the player enters a number in the serial monitor, I created a “while” loop 
